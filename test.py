@@ -6,4 +6,4 @@ def test(number, expected):
 
 test(2, True)
 test(3, False)
-test(4, True)
+test(4, False) # Ошибка специально
